@@ -1,0 +1,97 @@
+
+footer {
+    background-color: #d4d4d475;
+    padding-bottom: 20px;
+}
+
+.page-end-set {
+    display: inline-flex;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+
+.page-end-set .side-left {
+    float: left;
+}
+
+.page-end-set .side-left .copyright {
+    color: #949494;
+    font-weight: 200;
+}
+
+.page-end-set .side-left .settings {
+    display: grid;
+}
+
+.page-end-set .side-left .settings a {
+    color: #adadad;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+
+.page-end-set .vrline {
+    width: 1px;
+    background-color: #ff57229c;
+    margin-left: 186px;
+    padding-left: 0px;
+    height: 136px;
+    margin-top: 31px;
+}
+
+.page-end-set .side-right {
+    margin-left: 190px;
+}
+
+.page-end-set .side-right .contacttitle {
+    color: #949494;
+}
+
+.page-end-set .side-right .contactdetails ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.page-end-set .side-right .contactdetails ul li {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.page-end-set .side-right .contactdetails ul li a {
+    text-decoration: none;
+    color: #adadad;
+}
+
+.page-end-set .partnership a {
+    color: #fff;
+    display: inline-block;
+    font-family: raleway;
+    text-transform: uppercase;
+    font-size: 15px;
+    border: solid 1px;
+    padding: 9px 10px;
+    margin: 65px 111px;
+    background: #ff5800;
+    border-radius: 10px;
+    border-color: #ff5800;
+    text-decoration: none;
+    letter-spacing: 1.4px;
+    margin-left: 169px;
+    margin-right: 53px;
+}
+
+.page-end-set .partnership a:hover {
+    color: #ff5800;
+    background-color: #fff;
+    border: solid #fff 2px;
+}
+
+.page-end-set .side-right .social ul {
+    display: inline-flex;
+    padding-left: 0px;
+}
+
+.page-end-set .side-right .social ul li {
+    list-style: none;
+    margin-right: 25px;
+}
